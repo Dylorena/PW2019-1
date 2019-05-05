@@ -1,0 +1,27 @@
+div #inputPeso, #inputAltura {
+   width: 45%;
+}
+
+#inputPeso {
+  
+  float:right;
+ 
+}
+
+#inputAltura {
+  
+  float:left;
+ 
+}
+
+button {
+  
+   margin-top:10%;
+}
+
+
+.container {
+  width: 60%;
+  margin-top: 10%;
+}
+
