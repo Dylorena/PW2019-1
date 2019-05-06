@@ -1,0 +1,29 @@
+div #divPeso, #divAltura {
+   width: 45%;
+}
+
+#divPeso {
+  float:right;
+}
+
+#divAltura {
+  float:left;
+}
+
+button {
+  margin-top:10%;
+  margin-left: 40%
+}
+
+.container {
+  width: 60%;
+  margin-top: 5%;
+}
+
+.container img {
+  max-width:45%;
+  max-height:45%;
+  width: auto;
+  height: auto;
+  margin-left: 28%
+}
